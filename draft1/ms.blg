@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ms.aux
+The style file: apj.bst
+Database file #1: msNotes.bib
+Database file #2: references.bib
+Repeated entry---line 3580 of file references.bib
+ : @article{chiosi_1986
+ :                     ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4705 of file references.bib
+ :     title 
+ :           = "{}",
+I'm skipping whatever remains of this entry
+You've used 27 entries,
+            2988 wiz_defined-function locations,
+            822 strings with 10437 characters,
+and the built_in function-call counts, 13766 in all, are:
+= -- 1118
+> -- 1022
+< -- 13
++ -- 345
+- -- 318
+* -- 1223
+:= -- 2537
+add.period$ -- 27
+call.type$ -- 27
+change.case$ -- 198
+chr.to.int$ -- 27
+cite$ -- 27
+duplicate$ -- 548
+empty$ -- 794
+format.name$ -- 419
+if$ -- 2719
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 23
+newline$ -- 85
+num.names$ -- 112
+pop$ -- 223
+preamble$ -- 1
+purify$ -- 198
+quote$ -- 0
+skip$ -- 476
+stack$ -- 0
+substring$ -- 625
+swap$ -- 34
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 243
+warning$ -- 0
+while$ -- 106
+width$ -- 0
+write$ -- 273
+(There were 2 error messages)
