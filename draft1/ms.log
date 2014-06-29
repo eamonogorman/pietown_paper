@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  24 JUN 2014 16:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  29 JUN 2014 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,56 +317,51 @@ Class revtex4-1 Warning: Assuming \noaffiliation for authors.
 
 [1]
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 89.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 90.
 
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 89.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 90.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 89.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 90.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 89.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 90.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 96.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 97.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 96.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 97.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 101.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 102.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 101.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 102.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 106.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 107.
 
 
-LaTeX Warning: Command \textgreater invalid in math mode on input line 106.
+LaTeX Warning: Command \textgreater invalid in math mode on input line 107.
 
-File: /home/eamon/pietown/paper/figs/nature_fig.ps Graphic file (type eps)
-</home/eamon/pietown/paper/figs/nature_fig.ps>
-File: /home/eamon/pietown/paper/figs/vla_q_2000.ps Graphic file (type eps)
-
-</home/eamon/pietown/paper/figs/vla_q_2000.ps>
-File: /home/eamon/pietown/paper/figs/vla_q_2004.ps Graphic file (type eps)
-
-</home/eamon/pietown/paper/figs/vla_q_2004.ps>
-Overfull \hbox (61.82323pt too wide) in paragraph at lines 131--132
+[2]
+File: /home/eamon/pietown/paper/figs/fig1.ps Graphic file (type eps)
+ </home/eamon/pietown/paper/figs/fig1.ps>
+Overfull \hbox (10.32463pt too wide) in paragraph at lines 138--139
 [][] 
  []
 
-[2] [3] (./ms.bbl) [4] (./ms.aux) ) 
+[3] (./ms.bbl) [4] (./ms.aux) ) 
 Here is how much of TeX's memory you used:
- 4243 strings out of 493305
- 54019 string characters out of 6139897
- 155198 words of memory out of 5000000
- 7656 multiletter control sequences out of 15000+600000
+ 4242 strings out of 493305
+ 53912 string characters out of 6139897
+ 155977 words of memory out of 5000000
+ 7657 multiletter control sequences out of 15000+600000
  13176 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  35i,10n,29p,2072b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ms.dvi (4 pages, 32832 bytes).
+Output written on ms.dvi (4 pages, 36512 bytes).
