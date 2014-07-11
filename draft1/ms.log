@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  29 JUN 2014 19:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  11 JUL 2014 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,18 +350,27 @@ LaTeX Warning: Command \textgreater invalid in math mode on input line 107.
 [2]
 File: /home/eamon/pietown/paper/figs/fig1.ps Graphic file (type eps)
  </home/eamon/pietown/paper/figs/fig1.ps>
-Overfull \hbox (10.32463pt too wide) in paragraph at lines 138--139
+Overfull \hbox (10.32463pt too wide) in paragraph at lines 137--138
 [][] 
  []
 
-[3] (./ms.bbl) [4] (./ms.aux) ) 
+File: /home/eamon/pietown/paper/figs/fig2.ps Graphic file (type eps)
+</home/eamon/pietown/paper/figs/fig2.ps> [3] [4]
+File: /home/eamon/pietown/paper/figs/fig3.ps Graphic file (type eps)
+
+</home/eamon/pietown/paper/figs/fig3.ps>
+Overfull \hbox (10.22545pt too wide) in paragraph at lines 160--161
+[][] 
+ []
+
+(./ms.bbl) [5] (./ms.aux) ) 
 Here is how much of TeX's memory you used:
- 4242 strings out of 493305
- 53912 string characters out of 6139897
- 155977 words of memory out of 5000000
- 7657 multiletter control sequences out of 15000+600000
+ 4253 strings out of 493305
+ 54084 string characters out of 6139897
+ 163588 words of memory out of 5000000
+ 7666 multiletter control sequences out of 15000+600000
  13176 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  35i,10n,29p,2072b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ms.dvi (4 pages, 36512 bytes).
+Output written on ms.dvi (5 pages, 44236 bytes).
