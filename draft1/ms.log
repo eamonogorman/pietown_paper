@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  11 JUL 2014 15:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.6.15)  14 JUL 2014 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,7 +280,11 @@ Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 13.
 Class revtex4-1 Info: cite was not loaded (OK!) on input line 13.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 13.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 13.
- (./ms.aux)
+ (./ms.aux
+
+LaTeX Warning: Label `fig3' multiply defined.
+
+)
 \openout1 = `ms.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -298,8 +302,7 @@ LaTeX Font Info:    ... okay on input line 13.
 \openout3 = `msNotes.bib'.
 
 LaTeX Font Info:    Try loading font information for U+lasy on input line 30.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 30.
@@ -359,18 +362,52 @@ File: /home/eamon/pietown/paper/figs/fig2.ps Graphic file (type eps)
 File: /home/eamon/pietown/paper/figs/fig3.ps Graphic file (type eps)
 
 </home/eamon/pietown/paper/figs/fig3.ps>
-Overfull \hbox (10.22545pt too wide) in paragraph at lines 160--161
+Overfull \hbox (10.22545pt too wide) in paragraph at lines 158--159
 [][] 
  []
 
-(./ms.bbl) [5] (./ms.aux) ) 
+
+LaTeX Warning: Reference `fig:5.16' on page 5 undefined on input line 167.
+
+
+LaTeX Warning: Reference `sec:5.13' on page 5 undefined on input line 170.
+
+
+LaTeX Warning: Reference `eq:1.43aa' on page 5 undefined on input line 173.
+
+
+LaTeX Warning: Reference `fig:5.16a' on page 5 undefined on input line 173.
+
+
+LaTeX Warning: Reference `chap:6' on page 5 undefined on input line 175.
+
+
+LaTeX Warning: Reference `sec:6.6' on page 5 undefined on input line 175.
+
+
+LaTeX Warning: Reference `fig:5.16a' on page 5 undefined on input line 175.
+
+File: /home/eamon/pietown/paper/figs/fig4.ps Graphic file (type eps)
+</home/eamon/pietown/paper/figs/fig4.ps>
+Overfull \hbox (10.22545pt too wide) in paragraph at lines 181--182
+[][] 
+ []
+
+[5] (./ms.bbl) [6] (./ms.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4253 strings out of 493305
- 54084 string characters out of 6139897
- 163588 words of memory out of 5000000
- 7666 multiletter control sequences out of 15000+600000
- 13176 words of font info for 54 fonts, out of 8000000 for 9000
+ 4276 strings out of 493305
+ 54456 string characters out of 6139897
+ 162266 words of memory out of 5000000
+ 7687 multiletter control sequences out of 15000+600000
+ 13484 words of font info for 55 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  35i,10n,29p,2072b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ms.dvi (5 pages, 44236 bytes).
+Output written on ms.dvi (6 pages, 53272 bytes).

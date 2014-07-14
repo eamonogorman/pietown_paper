@@ -1,5 +1,12 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{30}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Bookbinder} {et~al.}(1987){Bookbinder}, {Stencel}, {Drake}, {Simon},
+  {Linsky}, \& {Florkowski}}]{bookbinder_1987}
+{Bookbinder}, J.~A., {Stencel}, R.~E., {Drake}, S.~A., {Simon}, T., {Linsky},
+  J.~L., \& {Florkowski}, D. 1987, in Lecture Notes in Physics, Berlin Springer
+  Verlag, Vol. 291, Cool Stars, Stellar Systems and the Sun, ed. {J.~L.~Linsky
+  \& R.~E.~Stencel}, 337
 
 \bibitem[{{Chiavassa} {et~al.}(2010){Chiavassa}, {Haubois}, {Young}, {Plez},
   {Josselin}, {Perrin}, \& {Freytag}}]{chiavassa_2010}
@@ -20,6 +27,13 @@
   {Tielens}}]{decin_2012}
 {Decin}, L., {et~al.} 2012, \aap, 548, A113
 
+\bibitem[{{Drake} {et~al.}(1992){Drake}, {Bookbinder}, {Florkowski}, {Linsky},
+  {Simon}, \& {Stencel}}]{drake_1992}
+{Drake}, S.~A., {Bookbinder}, J.~A., {Florkowski}, D.~R., {Linsky}, J.~L.,
+  {Simon}, T., \& {Stencel}, R.~E. 1992, in Astronomical Society of the Pacific
+  Conference Series, Vol.~26, Cool Stars, Stellar Systems, and the Sun, ed.
+  {M.~S.~Giampapa \& J.~A.~Bookbinder}, 455
+
 \bibitem[{{Gilliland} \& {Dupree}(1996)}]{gilliland_1996}
 {Gilliland}, R.~L., \& {Dupree}, A.~K. 1996, \apjl, 463, L29
 
@@ -32,6 +46,9 @@
 
 \bibitem[{{Harper} {et~al.}(2008){Harper}, {Brown}, \& {Guinan}}]{harper_2008}
 {Harper}, G.~M., {Brown}, A., \& {Guinan}, E.~F. 2008, \aj, 135, 1430
+
+\bibitem[{{Harper} {et~al.}(2001){Harper}, {Brown}, \& {Lim}}]{harper_2001}
+{Harper}, G.~M., {Brown}, A., \& {Lim}, J. 2001, \apj, 551, 1073
 
 \bibitem[{{Hartmann} \& {Avrett}(1984)}]{hartmann_1984}
 {Hartmann}, L., \& {Avrett}, E.~H. 1984, \apj, 284, 238
